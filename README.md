@@ -4,4 +4,4 @@ To start reading sensor data from the Würth Elektronik Sensor FeatherWing combi
 
 To use the Machine Learning model I've created navigate to the folder "SensorFeatherwing_Portenta_predictive_maintenance" where you'll find the main.cpp file under the src folder
 
-For more info read the full article here: 
+For more info read the full article here: https://resources.mouser.com/hardware-projects/predictive-maintenance-using-machine-learning-on-edge-devices
